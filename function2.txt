@@ -1,2 +1,2 @@
 funtion2
-changed 2 from clone 4
+changed 1changed 2 from clone 4
